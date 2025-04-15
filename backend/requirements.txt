@@ -3,3 +3,4 @@ Flask-RESTful==0.3.10
 Flask-SQLAlchemy==3.1.1
 python-dotenv==1.0.0
 gunicorn==21.2.0
+tenhou-log-utils==0.1.0
